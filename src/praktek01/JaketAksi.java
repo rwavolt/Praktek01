@@ -18,5 +18,7 @@ public class JaketAksi {
         Dropdead.warna="Kuning";
         Dropdead.bahan="Katun";
         Dropdead.harga=150000;
+        
+        Dropdead.cetakInfo();
     }
 }
