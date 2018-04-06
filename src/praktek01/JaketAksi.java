@@ -11,6 +11,6 @@ package praktek01;
  */
 public class JaketAksi {
     public static void main (String[] args) {
-    
+        Jaket Dropdead = new Jaket ();
     }
 }
