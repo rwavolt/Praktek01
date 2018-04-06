@@ -12,5 +12,11 @@ package praktek01;
 public class JaketAksi {
     public static void main (String[] args) {
         Jaket Dropdead = new Jaket ();
+        
+        Dropdead.merek="Drop Dead";
+        Dropdead.ukuran="L";
+        Dropdead.warna="Kuning";
+        Dropdead.bahan="Katun";
+        Dropdead.harga=150000;
     }
 }
